@@ -1,5 +1,5 @@
 @extends('layouts.master')
 
 @section('body')
-    <h1>Hello,  {{{$name}}}!</h1>
+    <h1>This is my resume!</h1>
 @stop
